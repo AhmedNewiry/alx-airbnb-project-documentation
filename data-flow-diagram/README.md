@@ -29,7 +29,7 @@ The DFD highlights data interactions for key functionalities, including user reg
 ## How to View
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AhmedNewiry/  alx-airbnb-project-documentation.git
+   git clone https://github.com/AhmedNewiry/alx-airbnb-project-documentation.git
    cd alx-airbnb-project-documentation/data-flow-diagram
    ```
 2. **Open the PNG**:
