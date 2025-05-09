@@ -3,7 +3,7 @@
 This directory contains documentation for the core features and functionalities of the AirBnB Clone backend project, as required for building a booking platform.
 
 ## Repository
-- **GitHub**: [alx-airbnb-project-documentation](https://github.com/alx-airbnb-project-documentation)
+- **GitHub**: [alx-airbnb-project-documentation](https://github.com/AhmedNewiry/alx-airbnb-project-documentation)
 - **Directory**: `features-and-functionalities/`
 - **File**: `airbnb-backend-core-features.png`
 
